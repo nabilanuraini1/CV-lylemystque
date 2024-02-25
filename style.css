@@ -1,0 +1,92 @@
+body {
+    background-color: #faf0f9;
+    padding: 0;
+    margin: 0;
+}
+#header {
+    background-color: #f159cb;
+    height: 190px;
+    border-radius: 30px;
+}
+#content {  
+    background-color: rgb(226, 125, 236);
+    padding: 10px;
+    height: 920px;
+    border-radius: 30px;
+}
+#footer {
+    background-color: #f159cb;
+    padding: 15px;
+    border-radius: 30px;
+}
+.photo {
+    height: 15em;
+    width: 15em;
+    float: left;
+    padding: 1em;
+    margin-right: 15px;
+}
+.photo {
+height: 175px;
+width: 175px;
+float: left;
+margin-right: 10px;
+padding: 10px;
+border-radius: 70px;
+}
+.name {
+color: white;
+font-size: 70px;
+font-family: Arial;
+margin-bottom: 0px;
+}
+.description {
+color:azure;
+font-size: 20px;
+margin-top: 0px;
+}
+.experience {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: white;
+}
+.experience2 {
+    padding: 0px;
+    font-size: 30px;
+    color: white;
+}
+.card {
+    background-color: #e870dc;
+    border: 2px solid #dfc8e6;
+    border-radius: 10px;
+    padding: 10px; 
+    width: 40%;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+.card2 {
+    padding-left: 0px;
+    background-color: #e870dc;
+    border: 2px solid #dfc8e6;
+    border-radius: 10px;
+    padding: 10px; 
+    width: 40%;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+
+#footer h1{
+    text-align: center;
+    color: white;
+    margin-bottom: 10px;
+}
+#footer ul {
+    text-align: center;
+    list-style-type: none;
+}
+#footer ul li a {
+    color: white;
+    text-decoration: none;
+
+}
